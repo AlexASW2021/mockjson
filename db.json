@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Peter",
+      "lastName": "Müller",
+      "email": "Peter@aswmail.com",
+      "age": 22,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Lisa",
+      "lastName": "Meier",
+      "email": "Lisa@aswmail.com",
+      "age": 25,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Sara",
+      "lastName": "Schmidt",
+      "email": "sara@aswmail.com",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "4",
+      "firstName": "Stefan",
+      "lastName": "Peters",
+      "age": 35,
+      "email": "stefan@aswmail.com",
+      "companyId": "3",
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apfel",
+      "description": "Apfel ist ein bekannter Smartphonehersteller"
+    },
+    {
+      "id": "2",
+      "name": "Klein_Software",
+      "description": "Klein_Software ist ein erfundenes Softwareunternehmen"
+    },
+    {
+      "id": "3",
+      "name": "Suchmachine AG",
+      "description": "Ist eine sehr bekannte Tech-Firma"
+    }
+  ]
+}
